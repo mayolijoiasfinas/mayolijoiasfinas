@@ -1,1 +1,1 @@
-{ "framework": "vite" } { "framework": "vite", "buildCommand": "pnpm run build", "outputDirectory": "dist" }
+{ "version": 2 }
